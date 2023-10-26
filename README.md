@@ -3,4 +3,4 @@
 # böngésző pull
 # vs code
 # vs code 02
-# konfliktus vs code
+# valami mást
