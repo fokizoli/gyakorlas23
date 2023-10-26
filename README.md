@@ -3,3 +3,4 @@
 # böngésző pull
 # vs code
 # vs code 02
+# konkfliktus böngésző
