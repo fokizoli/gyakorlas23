@@ -3,3 +3,5 @@
 # böngésző pull
 # vs code
 # vs code 02
+# valami mást
+# jira
